@@ -1,4 +1,4 @@
-# Goggle-Search-Bar
+# Google-Search-Bar
 Goggle Search Bar Python(Flask) App.
 
 The search result is displayed on the screen and saved as a file in the format json
